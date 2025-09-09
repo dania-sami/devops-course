@@ -24,7 +24,8 @@ The study shows that relatively simple fixes such as improving I/O pipelines or 
 **Link to article:**  
 [An Empirical Study on Low GPU Utilization of Deep Learning Jobs (ICSE 2024)](https://www.microsoft.com/en-us/research/publication/an-empirical-study-on-low-gpu-utilization-of-deep-learning-jobs/)
 
-## Relevance
+ Relevance
+ 
 This paper is highly relevant to MLOps/AIOps/LLMOps, since efficient GPU usage is central to deploying ML systems in production. Low GPU utilization directly affects training time, operational cost, and scalability of ML workloads.  
 
 By analyzing real-world operational challenges and offering a framework for diagnosing and fixing inefficiencies, this work provides practical insights for DevOps engineers and ML practitioners. It connects directly to the course theme of DevOps for ML systems, emphasizing resource management, pipeline reliability, and system-level optimization.
