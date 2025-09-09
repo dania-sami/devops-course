@@ -18,7 +18,8 @@ This paper presents an empirical study on GPU underutilization in deep learning 
 
 The study shows that relatively simple fixes such as improving I/O pipelines or adjusting training configurations can yield up to **7.5× performance improvements**. This work provides actionable insights into how inefficiencies arise and how they can be mitigated to make ML pipelines more reliable and cost-efficient.
 
-## Relevance
+Relevance
+
 This paper is highly relevant to MLOps/AIOps/LLMOps, since efficient GPU usage is central to deploying ML systems in production. Low GPU utilization directly affects training time, operational cost, and scalability of ML workloads.
 
 By analyzing real-world operational challenges and offering a framework for diagnosing and fixing inefficiencies, this work provides practical insights for DevOps engineers and ML practitioners. It connects directly to the course theme of DevOps for ML systems, emphasizing resource management, pipeline reliability, and system-level optimization.
