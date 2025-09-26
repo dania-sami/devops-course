@@ -15,7 +15,7 @@ Feedback on Week 4 Demo Proposal – Blue-Green Deployment of AI Models Based on
 
 ## Description
 We would like to review the demo proposal [#2716](https://github.com/KTH/devops-course/pull/2716) and provide feedback on it.
-
+The feedback can be viewed here #2716 (comment)
 
 
 
